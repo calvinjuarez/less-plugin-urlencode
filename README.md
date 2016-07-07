@@ -3,7 +3,7 @@ Simple URL Encode Function for Less
 
 ## Installation
 
-Put this file in your project and include the following in your Less file:
+Put the _`urlencode.less.js`_ file in your project and include the following in your Less file:
 
 ```less
 @plugin 'path/to/urlencode.less.js';
